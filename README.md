@@ -13,7 +13,7 @@ python izu4.py --input=model-example.txt --output=result.md
 ```
 If you want to check it in graphviz first use -g:
 ```bash
-python izu4.py -g --input=model-example.txt --output=result.md
+python izu4.py -g --input=model-example.txt --output=graphviz.dot
 ```
 
 I suggest using Python 3.9.7
