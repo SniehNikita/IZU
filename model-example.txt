@@ -1,0 +1,30 @@
+
+attributes {
+    prijem : <15 15-35 >35
+    dluh : vysoky nizky
+    historie : spatna neznama dobra
+    ruceni : zadne adekvatni
+}
+
+classes {
+    V
+    P
+    N
+}
+
+objects {
+    1 V <15 vysoky spatna zadne
+    2 V 15-35 vysoky neznama zadne
+    3 P 15-35 nizky neznama zadne
+    4 V <15 nizky neznama zadne
+    5 N >35 nizky neznama zadne
+    6 N >35 nizky neznama adekvatni
+    7 V <15 nizky spatna zadne
+    8 P >35 nizky spatna adekvatni
+    9 N >35 nizky dobra zadne
+    10 N >35 vysoky dobra adekvatni
+    11 V <15 vysoky dobra zadne
+    12 P 15-35 vysoky dobra zadne
+    13 N >35 vysoky dobra zadne
+    14 V 15-35 vysoky spatna zadne
+}
